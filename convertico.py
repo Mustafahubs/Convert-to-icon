@@ -6,7 +6,6 @@ class Convertico:
     def __init__(self,target_img_path):
         self.api_url = "https://convertico.com/convert_script.php"
         self.file_path = target_img_path
-        print(self.file_path)
 
     def create_session(self):
         sess = session()
