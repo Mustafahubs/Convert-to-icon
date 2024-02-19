@@ -10,7 +10,7 @@ To set up Convertico on your machine and enable the context menu option, follow 
 
 2. **Install Dependencies**: Ensure you have Python installed on your machine. This tool requires the `requests` library, which you can install using pip:
 
-`pip install requests`
+- `pip install requests`
 
 
 3. **Configure Context Menu Entry**:
